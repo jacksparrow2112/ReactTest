@@ -1,7 +1,7 @@
 function btnrender(){
     return (
         <div>
-            <button>Araray Biayaa</button>
+            <button>CLick Me </button>
         </div>
     )
 }
